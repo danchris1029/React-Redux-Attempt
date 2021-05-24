@@ -1,3 +1,8 @@
+#About
+
+I took a crack at the "Basic Redux Data Flow" tutorial on the Redux website. The finished product is a simple web page where the user can create and submit posts that are instantly rendered onto the UI.
+Tutorial is located at https://redux.js.org/tutorials/essentials/part-3-data-flow
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
